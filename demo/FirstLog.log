@@ -1,0 +1,44 @@
+2020-05-07 16:39:29.878  INFO 7764 --- [main] com.cx.demo.DemoApplicationTests         : Starting DemoApplicationTests on JS-202002222212 with PID 7764 (started by Administrator in E:\FirstIdea\gmall0501\demo)
+2020-05-07 16:39:29.879 DEBUG 7764 --- [main] com.cx.demo.DemoApplicationTests         : Running with Spring Boot v2.2.6.RELEASE, Spring v5.2.5.RELEASE
+2020-05-07 16:39:29.880  INFO 7764 --- [main] com.cx.demo.DemoApplicationTests         : No active profile set, falling back to default profiles: default
+2020-05-07 16:39:31.443  INFO 7764 --- [main] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'applicationTaskExecutor'
+2020-05-07 16:39:31.824  INFO 7764 --- [main] com.cx.demo.DemoApplicationTests         : Started DemoApplicationTests in 2.467 seconds (JVM running for 3.942)
+2020-05-07 16:39:32.074 TRACE 7764 --- [main] com.cx.demo.DemoApplicationTests         : 111
+2020-05-07 16:39:32.074 DEBUG 7764 --- [main] com.cx.demo.DemoApplicationTests         : 222
+2020-05-07 16:39:32.074  INFO 7764 --- [main] com.cx.demo.DemoApplicationTests         : 333
+2020-05-07 16:39:32.075  WARN 7764 --- [main] com.cx.demo.DemoApplicationTests         : 444
+2020-05-07 16:39:32.075 ERROR 7764 --- [main] com.cx.demo.DemoApplicationTests         : 555
+2020-05-07 16:39:32.095  INFO 7764 --- [SpringContextShutdownHook] o.s.s.concurrent.ThreadPoolTaskExecutor  : Shutting down ExecutorService 'applicationTaskExecutor'
+2020-05-07 16:42:05.848  INFO 11016 --- [main] com.cx.demo.DemoApplicationTests         : Starting DemoApplicationTests on JS-202002222212 with PID 11016 (started by Administrator in E:\FirstIdea\gmall0501\demo)
+2020-05-07 16:42:05.849 DEBUG 11016 --- [main] com.cx.demo.DemoApplicationTests         : Running with Spring Boot v2.2.6.RELEASE, Spring v5.2.5.RELEASE
+2020-05-07 16:42:05.850  INFO 11016 --- [main] com.cx.demo.DemoApplicationTests         : No active profile set, falling back to default profiles: default
+2020-05-07 16:42:07.490  INFO 11016 --- [main] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'applicationTaskExecutor'
+2020-05-07 16:42:07.833  INFO 11016 --- [main] com.cx.demo.DemoApplicationTests         : Started DemoApplicationTests in 2.438 seconds (JVM running for 3.926)
+2020-05-07 16:42:08.078 TRACE 11016 --- [main] com.cx.demo.DemoApplicationTests         : 111
+2020-05-07 16:42:08.079 DEBUG 11016 --- [main] com.cx.demo.DemoApplicationTests         : 222
+2020-05-07 16:42:08.079  INFO 11016 --- [main] com.cx.demo.DemoApplicationTests         : 333
+2020-05-07 16:42:08.079  WARN 11016 --- [main] com.cx.demo.DemoApplicationTests         : 444
+2020-05-07 16:42:08.079 ERROR 11016 --- [main] com.cx.demo.DemoApplicationTests         : 555
+2020-05-07 16:42:08.100  INFO 11016 --- [SpringContextShutdownHook] o.s.s.concurrent.ThreadPoolTaskExecutor  : Shutting down ExecutorService 'applicationTaskExecutor'
+2020-05-07 16:43:24.033  INFO 7776 --- [main] com.cx.demo.DemoApplicationTests         : Starting DemoApplicationTests on JS-202002222212 with PID 7776 (started by Administrator in E:\FirstIdea\gmall0501\demo)
+2020-05-07 16:43:24.035 DEBUG 7776 --- [main] com.cx.demo.DemoApplicationTests         : Running with Spring Boot v2.2.6.RELEASE, Spring v5.2.5.RELEASE
+2020-05-07 16:43:24.035  INFO 7776 --- [main] com.cx.demo.DemoApplicationTests         : No active profile set, falling back to default profiles: default
+2020-05-07 16:43:25.697  INFO 7776 --- [main] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'applicationTaskExecutor'
+2020-05-07 16:43:26.059  INFO 7776 --- [main] com.cx.demo.DemoApplicationTests         : Started DemoApplicationTests in 2.58 seconds (JVM running for 4.05)
+2020-05-07 16:43:26.292 TRACE 7776 --- [main] com.cx.demo.DemoApplicationTests         : 111
+2020-05-07 16:43:26.293 DEBUG 7776 --- [main] com.cx.demo.DemoApplicationTests         : 222
+2020-05-07 16:43:26.293  INFO 7776 --- [main] com.cx.demo.DemoApplicationTests         : 333
+2020-05-07 16:43:26.293  WARN 7776 --- [main] com.cx.demo.DemoApplicationTests         : 444
+2020-05-07 16:43:26.293 ERROR 7776 --- [main] com.cx.demo.DemoApplicationTests         : 555
+2020-05-07 16:43:26.315  INFO 7776 --- [SpringContextShutdownHook] o.s.s.concurrent.ThreadPoolTaskExecutor  : Shutting down ExecutorService 'applicationTaskExecutor'
+2020-05-07 16:55:18.923  INFO 6000 --- [main] com.cx.demo.DemoApplicationTests         : Starting DemoApplicationTests on JS-202002222212 with PID 6000 (started by Administrator in E:\FirstIdea\gmall0501\demo)
+2020-05-07 16:55:18.926 DEBUG 6000 --- [main] com.cx.demo.DemoApplicationTests         : Running with Spring Boot v2.2.6.RELEASE, Spring v5.2.5.RELEASE
+2020-05-07 16:55:18.927  INFO 6000 --- [main] com.cx.demo.DemoApplicationTests         : No active profile set, falling back to default profiles: default
+2020-05-07 16:55:20.708  INFO 6000 --- [main] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'applicationTaskExecutor'
+2020-05-07 16:55:21.062  INFO 6000 --- [main] com.cx.demo.DemoApplicationTests         : Started DemoApplicationTests in 2.601 seconds (JVM running for 4.083)
+2020-05-07 16:55:21.303 TRACE 6000 --- [main] com.cx.demo.DemoApplicationTests         : 111
+2020-05-07 16:55:21.304 DEBUG 6000 --- [main] com.cx.demo.DemoApplicationTests         : 222
+2020-05-07 16:55:21.304  INFO 6000 --- [main] com.cx.demo.DemoApplicationTests         : 333
+2020-05-07 16:55:21.304  WARN 6000 --- [main] com.cx.demo.DemoApplicationTests         : 444
+2020-05-07 16:55:21.304 ERROR 6000 --- [main] com.cx.demo.DemoApplicationTests         : 555
+2020-05-07 16:55:21.326  INFO 6000 --- [SpringContextShutdownHook] o.s.s.concurrent.ThreadPoolTaskExecutor  : Shutting down ExecutorService 'applicationTaskExecutor'
