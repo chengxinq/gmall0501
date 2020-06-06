@@ -1,0 +1,6 @@
+friends:
+  name: zhangsan
+  age: 18
+
+friend: {name: xiaoming,age: 20}
+

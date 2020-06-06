@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE mapper
+        PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN"
+        "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+<!-- 包名+类名 -->
+<mapper namespace="com.cx.gmall.user.mapper.UserMapper">
+    <select id="getUserAll" resultType="UmsMember">
+        select * from ums_member
+    </select>
+</mapper>
